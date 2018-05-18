@@ -1,2 +1,2 @@
-# Crosswind-Calculator
-A simple iOS crosswind calculator written in Swift.
+# Crosswind Calculator
+A simple crosswind calculator for iOS written in Swift.
